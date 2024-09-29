@@ -18,7 +18,7 @@ Pré-requisitos:
 
 Instale o WordPress em um servidor local ou utilize plataformas de hospedagem compatíveis.
 Configure um banco de dados para o WordPress.
-Clone o Repositório: https://github.com/luciana-pessoa/jornadaviagem
+Clone o Repositório: https://github.com/luciana-pessoa/jornada-viagem
 
 Configuração do WordPress:
 

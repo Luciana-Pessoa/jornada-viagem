@@ -11,6 +11,11 @@ Este projeto WordPress foi criado com o objetivo de:
 ![image](https://github.com/user-attachments/assets/87dca605-ec50-4abb-acda-18e46323efd4)
 
 
+Foi utilizado o Figma para nortear o designer do projeto:
+![image](https://github.com/user-attachments/assets/f5c48beb-ce9c-4271-bc19-87bf61eeed0d)
+
+
+
 Promover Destinos: Apresentar informações planejadas sobre destinos turísticos, incluindo especificações, atrações e orientações práticas.
 Compartilhar Experiências: Permitir aos usuários compartilhar suas jornadas, histórias e fotos de viagens.
 Fornecer Recursos Úteis: Oferecer dicas, itinerários e conselhos práticos para viajantes.

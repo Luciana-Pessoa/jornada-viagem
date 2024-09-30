@@ -8,6 +8,9 @@ O Jornada Viagens é um projeto baseado em WordPress dedicado ao mundo das viage
 Sobre o Projeto
 Este projeto WordPress foi criado com o objetivo de:
 
+![image](https://github.com/user-attachments/assets/87dca605-ec50-4abb-acda-18e46323efd4)
+
+
 Promover Destinos: Apresentar informações planejadas sobre destinos turísticos, incluindo especificações, atrações e orientações práticas.
 Compartilhar Experiências: Permitir aos usuários compartilhar suas jornadas, histórias e fotos de viagens.
 Fornecer Recursos Úteis: Oferecer dicas, itinerários e conselhos práticos para viajantes.
@@ -22,7 +25,7 @@ Pré-requisitos:
 
 Instale o WordPress em um servidor local ou utilize plataformas de hospedagem compatíveis.
 Configure um banco de dados para o WordPress.
-Clone o Repositório: https://github.com/luciana-pessoa/jornada-viagem
+Clone o Repositório:
 
 Configuração do WordPress:
 

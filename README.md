@@ -6,7 +6,6 @@ O **Jornada Viagens** é um projeto baseado em WordPress dedicado ao mundo das v
 
 ![image](https://github.com/user-attachments/assets/87dca605-ec50-4abb-acda-18e46323efd4)
 
-
 Foi utilizado o Figma para nortear o designer do projeto:
 ![image](https://github.com/user-attachments/assets/f5c48beb-ce9c-4271-bc19-87bf61eeed0d)
 

@@ -2,7 +2,6 @@
 
 # Jornada Viagens
 
-  
 O **Jornada Viagens** é um projeto baseado em WordPress dedicado ao mundo das viagens, proporcionando uma plataforma para explorar destinos, compartilhar experiências de viagem e oferecer informações valiosas aos viajantes.
 
 ![image](https://github.com/user-attachments/assets/87dca605-ec50-4abb-acda-18e46323efd4)

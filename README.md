@@ -13,7 +13,6 @@ Foi utilizado o Figma para nortear o designer do projeto:
 
 Este projeto WordPress foi criado com o objetivo de:
 
-
 - **Promover Destinos:** Apresentar informações detalhadas sobre destinos turísticos, incluindo descrições, atrações e guias práticos.
 - **Compartilhar Experiências:** Permitir aos usuários compartilhar suas jornadas, histórias e fotos de viagens.
 - **Fornecer Recursos Úteis:** Oferecer dicas, itinerários e conselhos práticos para viajantes.

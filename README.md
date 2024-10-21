@@ -32,7 +32,7 @@ Para instalar e executar o projeto localmente:
    - Instale o WordPress em um servidor local ou utilize plataformas de hospedagem compatíveis.
    - Configure um banco de dados para o WordPress.
 
-2. **Clone o Repositório:**
+2. **Clone o Repositório:** 
 
 3. **Configuração do WordPress:**
 - Importe o conteúdo do projeto para a instância do WordPress.

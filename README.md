@@ -10,7 +10,6 @@ Foi utilizado o Figma para nortear o designer do projeto:
 ![image](https://github.com/user-attachments/assets/f5c48beb-ce9c-4271-bc19-87bf61eeed0d)
 
 
-
 ## Sobre o Projeto
 
 Este projeto WordPress foi criado com o objetivo de:

@@ -49,4 +49,5 @@ Contribuições são bem-vindas! Se deseja contribuir para o projeto:
 3. Envie um pull request com uma descrição detalhada das alterações propostas.
 
 ## Licença
+
 Este projeto é distribuído sob a licença [LICENSE]. Consulte o arquivo `LICENSE` para obter mais informações.
